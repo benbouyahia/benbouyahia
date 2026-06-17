@@ -8,7 +8,11 @@ I turn complex datasets into clear, actionable insights through automated report
 
 - **SQL** 
 - **Power BI** 
-- **Advanced Excel** 
+- **Advanced Excel**
+
+## Certifications 
+
+<img width="369" height="368" alt="image" src="https://github.com/user-attachments/assets/916e6d3d-bac1-41ca-b019-7d56cfdeae6e" />
 
 ## Currently Working On
 
