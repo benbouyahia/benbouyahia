@@ -1,6 +1,6 @@
 # Hi, I'm Ayoub
 
-**Data Analyst** | Marketing Background | Insights-Driven
+**Data Analyst** | **Sales & Marketing Background** | **Microsoft Certified Power BI Data Analyst Associate (PL-300)**
 
 I turn complex datasets into clear, actionable insights through automated reporting and strategic KPI development.
 
