@@ -20,6 +20,6 @@ Multiple analytics projects to enhance my data analysis skills and build a portf
 
 ## Contact
 
-- **Portfolio:** [github.com/benbouyahia/data analytics portfolio]([https://github.com/benbouyahia/Data-Analytics-Portfolio](https://github.com/benbouyahia/Data-Analytics-Protfolio.git))
+- **Portfolio:** [github.com/benbouyahia/data analytics portfolio](https://github.com/benbouyahia/Data-Analytics-Portfolio](https://github.com/benbouyahia/Data-Analytics-Protfolio.git)
 - **LinkedIn:** [linkedin.com/in/ayoub-ben-bouyahia/](https://linkedin.com/in/ayoub-ben-bouyahia/)
 - **Email:** benbouyahiaa@gmail.com
