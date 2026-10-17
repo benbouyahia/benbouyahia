@@ -22,7 +22,7 @@
 
 ---
 
-## `$ whoami`
+## `$whoami`
 
 I'm a **Data Analyst with a background in Business Analytics, Sales, and Marketing**, interested in using data to solve business problems and improve decision-making.
 
